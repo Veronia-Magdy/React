@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(214, 111, 111, 0.466);
+}
+.card {
+    background-color: rgb(99, 188, 240);
+    text-align: center;
+    width: 24.7%;
+    display: inline-block;
+}
+.card img {
+    width: 100%;
+}
+
